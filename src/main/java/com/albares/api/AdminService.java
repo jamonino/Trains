@@ -1,5 +1,5 @@
 
-package api;
+package com.albares.api;
 
 import com.albares.trains.Train;
 import com.albares.utils.JWTUtils;

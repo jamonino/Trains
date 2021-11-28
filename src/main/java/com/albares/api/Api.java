@@ -1,5 +1,5 @@
 
-package api;
+package com.albares.api;
 
 import jakarta.ws.rs.ApplicationPath;
 import jakarta.ws.rs.core.Application;
